@@ -186,6 +186,6 @@ terraform/
 terraform destroy -var-file=terraform.tfvars
 ```
 
-## License
+## Loom Video
 
-MIT
+Link: https://www.loom.com/share/0c85780f83904c21b4603146f454ccd2
