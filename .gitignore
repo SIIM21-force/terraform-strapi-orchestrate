@@ -1,0 +1,20 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Example files
+terraform.tfvars.example
+
+# Local overrides
+*.tfvars.local
+
+# Crash log files
+crash.log
+crash.*.log
+
+# SSH keys (sensitive)
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
